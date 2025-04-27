@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me 
+  Hi, I'm Yeren.
+  I'm currently learning machine learning, focusing primarily on fundamentals such as Pytorch, numpy and core algorithms. Once my school workload lightens, I plan to work on small projects, such as a recommendation system and an image classification model — specifically focused   on medieval weapons to   practice.
+  Outside of machine learning and programming I do fencing, archery and hiking on my free time. I am still a beginner in these hobbies, but I enjoy them greatly. 
+  You can reach me through my phone number or telegram.
 
-<!--
-**yerenyeren/yerenyeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack:
 
-Here are some ideas to get you started:
+  Languages: Python (stronger), C++ (stronger), C#, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Frameworks/Libraries: Django, PyTorch, NumPy
+
+  Other: Experience with arduino
